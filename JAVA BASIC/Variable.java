@@ -1,0 +1,7 @@
+/*DEFINE LOCAL AND GLOBAL VARIABLE WITH THE SAME NAME AND PRINT BOTH VARIABLE AND UNDERSTAND THE SCOPE OF THE VARIABLE*/
+
+class Variable
+{
+  public static void main(String args[])
+ {
+   
